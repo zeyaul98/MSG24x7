@@ -1,6 +1,6 @@
 import React from "react";
-import Baseplan from "../components/baseplan"
-import Proplan from "../components/proplan"
+import Baseplan from "../components/Baseplan.jsx"
+import Proplan from "../components/Proplan.jsx"
 
 const ProPlanFeatures = () => {
   const features = [

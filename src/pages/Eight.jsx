@@ -1,5 +1,5 @@
 import React from 'react'
-import Faq from '../components/faq.jsx'
+import Faq from '../components/Faq.jsx'
 
 const Eight = () => {
   return (
